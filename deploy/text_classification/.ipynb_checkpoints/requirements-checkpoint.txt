@@ -1,4 +1,0 @@
-seldon-core
-scikit-learn==1.0
-joblib==1.1.0
-tensorflow==2.8.0
